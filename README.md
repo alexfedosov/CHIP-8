@@ -1,5 +1,8 @@
 # CHIP-8 Emulator
 
+![CHIP-8](https://github.com/alexfedosov/CHIP-8/assets/919187/24032844-fa0f-40fc-9e96-54670b488558)
+
+
 A few days ago, I once again stumbled across a mention of a fantasy console. I've always been curious about fantasy consoles, like PICO-8, and how they work (also have been thinking about building my own as an exploratory project). 
 
 > *You can find many fantasy console implementations here* 
